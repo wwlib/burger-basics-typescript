@@ -1,4 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a TypeScript translation of the BurgerBuilder example from Maximilian Schwarzmüller's Udemy course:
+
+https://www.udemy.com/react-the-complete-guide-incl-redux/
+
+It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+```
+create-react-app burger-basics-typescript --typescript
+```
 
 ## Available Scripts
 
